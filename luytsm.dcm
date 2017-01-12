@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP RN2483
+D Microchip RN2483 LoRa Module
+K Microchip RN2483 LoRa 
+$ENDCMP
+#
 #End Doc Library

@@ -59,6 +59,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP HDSP-B09G
+D 4 digit 7 segment super bright yellow LED, common cathode
+K 4 digit 7 segment super bright yellow LED, common cathode
+F http://www.kingbright.com/attachments/file/psearch/000/00/00/CC56-12SYKWA(Ver.6A).pdf
+$ENDCMP
+#
 $CMP HIH6030
 D Digital Humidity/Temperature Sensor
 K Honeywell HumidIcon Digital Humidity/Temperature Sensor
